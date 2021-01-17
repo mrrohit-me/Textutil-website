@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026c870f-aa81-4a18-810f-73c64ac3c685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/punctuation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textutil/View.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textutil/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textutil/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textutil/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textutil/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textutil/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/punctuation.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/punctuation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
