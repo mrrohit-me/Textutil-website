@@ -52,5 +52,9 @@ def analyze(request):
 
    return render(request, 'punctuation.html', params)
 
+def about(request):
+    return render(request, 'about1.html')
+
+
 
 
